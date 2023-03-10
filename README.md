@@ -1,4 +1,4 @@
-# dhrandy-2023-Stock-Theme
+# dhrandy-2023-Stockish-Theme
 I took the 2022 and 2023 stock theme and combined the elements I liked in both of them.  I also added a few things and changed out the gaming icons for ones that, to me, more matched the theme.
 
 ## Installation - *This only works with Garlic OS
