@@ -16,7 +16,7 @@ https://github.com/dhrandy/dhrandy-RG35XX-Themes
 6. Copy font folder over existing font folder. Agree to overwrite.
 7. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
 
-If you have artwork for your games be sure to update the following in the settings.json (Edit with Notepad)
+If you have artwork for your games be sure to update the following in the settings.json in the skin folder (Edit with Notepad)
 
 For Artwork:
 "text-margin": 352,
