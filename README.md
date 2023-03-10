@@ -4,6 +4,8 @@ I took the 2022 and 2023 stock theme and combined the elements I liked in both o
 Click the link below to see all my themes.
 https://github.com/dhrandy/dhrandy-RG35XX-Themes
 
+![ezgif-3-492b179e98](https://user-images.githubusercontent.com/6290176/224431122-94350ad9-bc3c-4b97-9c1b-9ad958503125.gif)
+
 ## Installation - *This only works with Garlic OS
 *Only Works with Garlic OS 1.2.3
 1. Download this theme.  To do that click on Code in the upper right corner and select Download Zip.
