@@ -1,6 +1,9 @@
 # dhrandy-2023-Stockish-Theme
 I took the 2022 and 2023 stock theme and combined the elements I liked in both of them.  I also added a few things and changed out the gaming icons for ones that, to me, more matched the theme.
 
+Click the link below to see all my themes.
+https://github.com/dhrandy/dhrandy-RG35XX-Themes
+
 ## Installation - *This only works with Garlic OS
 *Only Works with Garlic OS 1.2.3
 1. Download this theme.  To do that click on Code in the upper right corner and select Download Zip.
