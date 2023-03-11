@@ -12,7 +12,7 @@ https://github.com/dhrandy/dhrandy-RG35XX-Themes
 2. Open your CFW folder on your main RG35XX sd card. (It's the same SD card that has your Garlic OS installation).
 3. Make a backup copy of your current skin folder.  If this theme doesn't work you can revert back.
 4. Copy the downloaded skin folder over the existing skin folder. Agree to overwrite.
-5. Copy lang folder over existing lang folder. Agree to overwite.
+5. Copy lang folder over existing lang folder. Agree to overwrite.
 6. Copy font folder over existing font folder. Agree to overwrite.
 7. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
 
