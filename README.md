@@ -8,7 +8,7 @@ https://github.com/dhrandy/dhrandy-RG35XX-Themes
 
 ## Installation - *This only works with Garlic OS
 *Only Works with Garlic OS 1.2.3
-1. Download this theme.  To do that click on Code in the upper right corner and select Download Zip.
+1. Download this theme, click on the most recent version in the Releases section and download the zip file.
 2. Open your CFW folder on your main RG35XX sd card. (It's the same SD card that has your Garlic OS installation).
 3. Make a backup copy of your current skin folder.  If this theme doesn't work you can revert back.
 4. Copy the downloaded skin folder over the existing skin folder. Agree to overwrite.
