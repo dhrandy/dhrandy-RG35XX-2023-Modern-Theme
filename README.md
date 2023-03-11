@@ -45,6 +45,8 @@ By downloading this file you take all responsibility for messing up your Anberni
 
 Garlic OS screenshots are saved in: CFW\retroarch\.retroarch\screenshots
 
+If you are using a mobile browser switch to desktop mode to see the Code/Download ZIP option.
+
 ## Useful Links
 RG35XX Starter Guide (Has how to install Garlic OS and add artwork) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
 
