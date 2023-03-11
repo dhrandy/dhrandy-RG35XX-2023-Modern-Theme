@@ -16,18 +16,29 @@ https://github.com/dhrandy/dhrandy-RG35XX-Themes
 6. Copy font folder over existing font folder. Agree to overwrite.
 7. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
 
-If you have artwork for your games be sure to update the following in the settings.json in the skin folder (Edit with Notepad)
+## Boxart Option
+
+If you are using boxart/artwork you can use options 1 or 2 to get the text to align correctly.  You don't need to do both.
+
+1. Move the file in boxart optional/skin/settings.json to the skin folder and overwrite the original.
+
+2. Update the following in the settings.json in the skin folder (Edit with Notepad):
 
 For Artwork:
+"text-alignment": "left",
 "text-margin": 352,
 
 No Artwork:
-"text-margin": 24,
+"text-alignment": "center",
+"text-margin": 16,
 
 ## Changelog
-3/10/23 - Works with Garlic OS 1.2.3
+3/11/23 - Works with Garlic OS 1.2.3
+- Added boxart optional/skin/settings.json file so it's easier to just copy and paste if you are using boxart/artwork.
 
--Uploaded
+3/10/23 
+
+-Initial upload
 
 ## Notes
 By downloading this file you take all responsibility for messing up your Anbernic RG35XX.  I am not held responsible. I can't guarantee this works with all versions of Garlic OS. Be sure to backup your current them in the skin folder!  You don't need the CFW folder on the second SD card.
