@@ -1,4 +1,4 @@
-# dhrandy-RG35XX-2023-Stockish-Theme
+# dhrandy-RG35XX-2023-Modern-Theme
 I took the 2022 and 2023 stock theme and combined the elements I liked in both of them.  I also added a few things and changed out the gaming icons for ones that, to me, more matched the theme.
 
 Click the link below to see all my themes.
@@ -35,6 +35,8 @@ No Artwork:
 ## Changelog
 3/11/23 - Works with Garlic OS 1.2.3
 - Added boxart optional/skin/settings.json file so it's easier to just copy and paste if you are using boxart/artwork.
+- Resized the charging icons to the appropriate size.
+- Changed the name from Stockish to Modern theme.
 
 3/10/23 
 
