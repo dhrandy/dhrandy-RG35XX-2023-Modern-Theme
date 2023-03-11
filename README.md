@@ -33,7 +33,7 @@ No Artwork:
 "text-margin": 16,
 
 ## Changelog
-3/11/23 - Works with Garlic OS 1.2.3
+3/11/23 - Works with Garlic OS 1.2.4
 - Added boxart optional/skin/settings.json file so it's easier to just copy and paste if you are using boxart/artwork.
 - Resized the charging icons to the appropriate size.
 - Changed the name from Stockish to Modern theme.
