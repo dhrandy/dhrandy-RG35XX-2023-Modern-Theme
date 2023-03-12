@@ -1,4 +1,4 @@
-# dhrandy-RG35XX-2023-Modern-Theme
+# RG35XX dhrandy-2023-Modern-Theme
 I took the 2022 and 2023 stock theme and combined the elements I liked in both of them.  I also added a few things and changed out the gaming icons for ones that, to me, more matched the theme.
 
 Click the link below to see all my themes.
